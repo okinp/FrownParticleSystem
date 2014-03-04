@@ -9,6 +9,7 @@
 *.swp
 *~.nib
 */DerivedData/
+*.xccheckout
 
 build/osx/DerivedData
 *.pbxuser
